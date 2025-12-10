@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "For The Street",
+  "base_artist": "Carz",
+  "createdAt": "2025-12-10T07:57:23.648158Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "This For The Street",
+      "artist": "Kerser",
+      "has_synced": false,
+      "path": "select/01_This_For_The_Street_Kerser.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Break for the Street",
+      "artist": "Shaun Cassidy",
+      "has_synced": true,
+      "path": "select/02_Break_for_the_Street_Shaun_Cassidy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "For The Street (Regain Remix Radio Edit)",
+      "artist": "Adaro",
+      "has_synced": false,
+      "path": "select/03_For_The_Street_(Regain_Remix_Radio_Edit)_Adaro.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "For The Street",
+      "artist": "Carz",
+      "has_synced": false,
+      "path": "select/pl_01_For_The_Street_Carz.txt"
+    }
+  ]
+}
